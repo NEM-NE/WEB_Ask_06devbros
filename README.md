@@ -1,5 +1,9 @@
 # WEB_Ask_06devbros
-비대면 상담 서비스입니다.
+비대면 상담 서비스 물어봐 입니다.
+챗봇과 AI를 이용하여 24시간 비대면 서비스가 가능합니다.
+
+
+추가 요망
 
 # Smaple Logo
 ![Logo](https://logosbynick.com/wp-content/uploads/2018/03/final-logo-example.png)
@@ -17,9 +21,9 @@
 
 ## 기술 스택 (Technique Used)
 ### Server(back-end)
- -  nodejs, php, java 등 서버 언어 버전 
- - express, laravel, sptring boot 등 사용한 프레임워크 
- - DB 등 사용한 다른 프로그램 
+ -  node.js
+ - express 등 사용한 프레임워크 
+ - MySQL DB 
  
 ### front-end
  -  react.js, vue.js 등 사용한 front-end 프레임워크 
